@@ -27,4 +27,4 @@ jobs:
 
       - name: Run tests
         run: |
-          python api_test.py
+          python api_example.py
